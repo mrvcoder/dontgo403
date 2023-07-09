@@ -3,6 +3,7 @@ Base-Url
 CF-Connecting-IP
 CF-Connecting_IP
 Client-IP
+Cluster-Client-IP
 Destination
 Forwarded
 Forwarded-For
@@ -35,9 +36,9 @@ X-Forwarded-Host
 X-Forwarded-Proto
 X-Forwarded-Server
 X-Forwarder-For
-X-Host
 X-HTTP-DestinationURL
 X-HTTP-Host-Override
+X-Host
 X-Original-Remote-Addr
 X-Original-URL
 X-Originally-Forwarded-For
@@ -45,10 +46,10 @@ X-Originating-IP
 X-Proxy-Url
 X-ProxyUser-Ip
 X-Real-IP
+X-Real-Ip
 X-Referrer
 X-Remote-Addr
 X-Remote-IP
 X-Rewrite-URL
-X-WAP-Profile
-X-Real-Ip
 X-True-IP
+X-WAP-Profile
