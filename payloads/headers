@@ -50,7 +50,9 @@ X-ProxyUser-Ip
 X-Real-IP
 X-Real-Ip
 X-Referrer
+X-Referrer: /admin
 X-Remote-Addr
+X-Remote-Addr: /admin
 X-Remote-IP
 X-Rewrite-URL
 X-True-IP
