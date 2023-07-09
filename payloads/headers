@@ -38,11 +38,13 @@ X-Forwarded-Server
 X-Forwarder-For
 X-HTTP-DestinationURL
 X-HTTP-Host-Override
+X-HTTP-Method-Override
 X-Host
 X-Original-Remote-Addr
 X-Original-URL
 X-Originally-Forwarded-For
 X-Originating-IP
+X-Override-URL
 X-Proxy-Url
 X-ProxyUser-Ip
 X-Real-IP
